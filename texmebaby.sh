@@ -4,7 +4,7 @@
 #author          :Syed Huda
 #date            :18-03-2020
 #version         :0.1    
-#usage		     :bash texmebaby.sh
+#usage		 :bash texmebaby.sh
 #notes           :sudo apt install pandoc
 #bash            :5.0.16(1)-release
 #==============================================================================
